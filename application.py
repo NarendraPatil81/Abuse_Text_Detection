@@ -10,7 +10,6 @@ params = {
 }
 
 
-import pkg_resources
 import numpy as np
 # importing the necessary dependencies
 from flask import Flask, render_template, request,jsonify
