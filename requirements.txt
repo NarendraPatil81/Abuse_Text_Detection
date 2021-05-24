@@ -16,3 +16,4 @@ scikit-learn==0.21.3
 scipy==1.5.4
 six==1.13.0
 Werkzeug==0.16.0
+Cython==0.29.20
